@@ -1,24 +1,56 @@
-# 👋 Hi, I’m @Arnaudl44
+# 👋 Bonjour, je suis @ArnaudL44
 
-- 👀 I’m interested in data analysis, machine learning
-- 🌱 I recently graduated in Data Analytics from Le Wagon and I'm trying to continue my learning in SQL, DBT, Python (Pandas, Scikit-learn), and data visualization (Python, Power BI, Looker Studio).
-- 💞️ I’m looking to collaborate on open source projects related to data analytics and data science
-- 📫 You can reach me on LinkedIn: [Arnaud Le Merrer](https://www.linkedin.com/in/arnaud-le-merrer-66a401102/)
+- 🌟 Passionné par l’**analyse de données** et la **business intelligence**.
+- 🌱 Je développe actuellement mes compétences en **SQL**, **Power BI**, et **Excel**, et je continue d’explorer les possibilités offertes par **Python**.
+- 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
+- 🤝 À la recherche d’un poste en tant que **data analyst** ou **business intelligence analyst** pour transformer les données en insights actionnables et soutenir la prise de décision.
 
-## 🛠️ Technologies and Tools
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker-studio&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FFDD44?style=flat-square&logo=dataviz&logoColor=white)
+---
 
-## 📈 GitHub Stats
-![Arnaudl44's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaudl44&show_icons=true&theme=radical)
+## 📊 Portfolio
 
-<!---
-Arnaudl44/Arnaudl44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### SQL
+- **[Analyse des ventes (SQL)](lien-vers-projet)** : KPIs des ventes, marges, et tendances temporelles.
+- **[Segmentation client](lien-vers-projet)** : Identification des clients actifs/inactifs et analyse géographique.
+
+### Power BI
+- **[Dashboard marketing](lien-vers-projet)** : Suivi des performances des campagnes publicitaires.
+- **[Analyse financière](lien-vers-projet)** : Visualisation des principaux indicateurs financiers.
+
+### Python
+- **[Prédiction du churn](lien-vers-projet)** : Analyse et prédiction du churn client à l’aide de modèles de machine learning (scikit-learn).
+
+---
+
+## 🎯 Compétences
+
+1. **SQL** : Manipulation avancée des données, création de CTE, fonctions de fenêtre, et agrégations.
+2. **Power BI** : Création de tableaux de bord interactifs, KPIs, et storytelling avec les données.
+3. **Excel** : Analyse des données, création de tableaux de bord, et automatisation avec des formules avancées.
+4. **Python** :
+   - Lecture et adaptation de code existant pour réaliser des analyses.
+   - Utilisation des bibliothèques clés comme pandas (nettoyage de données), matplotlib et seaborn (visualisations).
+   - Reproduction d’analyses de machine learning avec scikit-learn, en m'appuyant sur des notebooks réalisés lors de mon bootcamp.
+
+---
+
+## 🎓 Certifications
+
+- **Microsoft Certified** : Power BI Data Analyst Associate (PL-300).
+- **Bootcamp Data Analytics** : Le Wagon.
+
+---
+
+## 🚀 À la recherche d’opportunités
+
+Je suis actuellement en recherche active d’un **poste en analyse de données** ou en **business intelligence**, où je pourrai exploiter mes compétences en :
+- Nettoyage et manipulation des données.
+- Création de KPIs et reporting.
+- Réalisation de tableaux de bord interactifs (Excel, Power BI).
+
+Mon objectif est de contribuer à la prise de décision stratégique grâce à des analyses et des visualisations impactantes.
+
+📧 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/arnaud-le-merre).
+
+---
+
