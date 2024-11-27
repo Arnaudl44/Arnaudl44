@@ -17,6 +17,9 @@
 - **[Dashboard marketing](lien-vers-projet)** : Suivi des performances des campagnes publicitaires.
 - **[Analyse financière](lien-vers-projet)** : Visualisation des principaux indicateurs financiers.
 
+### Excel
+- 
+
 ### Python
 - **[Prédiction du churn](lien-vers-projet)** : Analyse et prédiction du churn client à l’aide de modèles de machine learning (scikit-learn).
 
@@ -24,15 +27,25 @@
 
 ## 🎯 Compétences
 
-1. **SQL** : Manipulation avancée des données, création de CTE, fonctions de fenêtre, et agrégations.
-2. **Power BI** : Création de tableaux de bord interactifs, KPIs, et storytelling avec les données.
-3. **Excel** : Analyse des données, création de tableaux de bord, et automatisation avec des formules avancées.
+1. **SQL** :
+   - Manipulation avancée des données : CTE, fonctions de fenêtre, agrégations.
+   - Expérience avec **BigQuery** pour l’analyse des données à grande échelle.
+
+2. **Power BI** :
+   - Création de tableaux de bord interactifs et exploration des KPIs.
+
+3. **Excel** :
+   - Analyse des données, création de tableaux de bord, et automatisation avec des formules avancées.
+
 4. **Python** :
    - Lecture et adaptation de code existant pour réaliser des analyses.
-   - Utilisation des bibliothèques clés comme pandas (nettoyage de données), matplotlib et seaborn (visualisations).
-   - Reproduction d’analyses de machine learning avec scikit-learn, en m'appuyant sur des notebooks réalisés lors de mon bootcamp.
+   - Utilisation des bibliothèques comme pandas (nettoyage de données) et matplotlib/seaborn (visualisations).
+   - Reproduction d’analyses de machine learning avec scikit-learn, basées sur des travaux guidés.
+   - Connaissances en **web scraping** et **utilisation d’APIs**.
 
----
+5. **Outils de transformation et ingestion des données** :
+   - Expérience passée avec **DBT** pour la modélisation de données, que je peux réutiliser si nécessaire.
+   - Connaissance de **Fivetran**, bien que peu utilisée récemment.
 
 ## 🎓 Certifications
 
