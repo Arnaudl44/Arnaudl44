@@ -21,7 +21,7 @@
 - 
 
 ### Python
-- **[Prédiction du churn](lien-vers-projet)** : Analyse et prédiction du churn client à l’aide de modèles de machine learning (scikit-learn).
+- **[AirBnB Listing Analysis](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md))** : Analyse des annonces AirBnB à Paris pour évaluer l'impact des régulations récentes sur le marché.
 
 ---
 
