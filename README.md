@@ -21,7 +21,7 @@
 - 
 
 ### Python
-- **[AirBnB Listing Analysis](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md))** : Analyse des annonces AirBnB à Paris pour évaluer l'impact des régulations récentes sur le marché.
+- **[AirBnB Listing Analysis](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)** : Analyse des annonces AirBnB à Paris pour évaluer l'impact des régulations récentes sur le marché.
 
 ---
 
