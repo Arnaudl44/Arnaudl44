@@ -65,4 +65,5 @@ Je suis actuellement en recherche active d’un **poste en analyse de données**
 
 Mon objectif est de contribuer à la prise de décision stratégique grâce à des analyses et des visualisations impactantes.
 
-📧 Vous pouvez me contacter via [LinkedIn](www.linkedin.com/in/arnaud-le-merrer-66a401102).
+📧 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/arnaud-le-merrer-66a401102).
+
