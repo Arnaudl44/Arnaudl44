@@ -10,7 +10,7 @@
 ## 📊 Portfolio
 
 ### SQL
-- **[Analyse des ventes (SQL)](lien-vers-projet)** : KPIs des ventes, marges, et tendances temporelles.
+- **[Analyse des ventes (SQL)](https://github.com/Arnaudl44/SQL-Projects/tree/main/BabyNames))** : KPIs des ventes, marges, et tendances temporelles.
 - **[Segmentation client](lien-vers-projet)** : Identification des clients actifs/inactifs et analyse géographique.
 
 ### Power BI
