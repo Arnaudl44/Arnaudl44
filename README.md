@@ -10,8 +10,8 @@
 ## 📊 Portfolio
 
 ### SQL
-- **[Analyse des ventes (SQL)](https://github.com/Arnaudl44/SQL-Projects/tree/main/BabyNames))** : KPIs des ventes, marges, et tendances temporelles.
-- **[Segmentation client](https://github.com/Arnaudl44/SQL-Projects/tree/main/Marketing%20%26%20Conversion%20Optimization%20Analysis)** : Identification des clients actifs/inactifs et analyse géographique.
+- **[Analyse des prénoms aux États-Unis](https://github.com/Arnaudl44/SQL-Projects/tree/main/BabyNames)** : KPIs des ventes, marges, et tendances temporelles.
+- **[Analyse marketing pour un site e-commerce](https://github.com/Arnaudl44/SQL-Projects/tree/main/Marketing%20%26%20Conversion%20Optimization%20Analysis)** : Identification des clients actifs/inactifs et analyse géographique.
 
 ### Power BI
 - **[Dashboard marketing](lien-vers-projet)** : Suivi des performances des campagnes publicitaires.
