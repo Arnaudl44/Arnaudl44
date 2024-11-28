@@ -19,7 +19,7 @@
 ### Excel
 - **[HR Employee Survey Responses](https://github.com/Arnaudl44/Excel-Projects/blob/main/HR%20Employee%20Survey%20Responses/README.md)** : Tableau de bord pour visualiser les résultats d'une enquête sur la satisfaction des employés.
 - **[US Labor Statistics Dashboard](https://github.com/Arnaudl44/Excel-Projects/blob/main/US%20Labor%20Statistics%20Dashboard/README.md)** : Analyse des tendances de l'emploi et des salaires aux États-Unis entre 2017 et 2020.
-- **[Customer Churn Analysis](https://github.com/Arnaudl44/Excel-Projects/blob/main/Customer%20Churn%20Analysis/README.md)** : Exploration des raisons de la perte de clients et visualisation des taux de churn par catégorie.
+- **[Customer Churn Analysis](https://github.com/Arnaudl44/Excel-Projects/blob/main/Analyzing%20Customer%20Churn%20/README.md)** : Exploration des raisons de la perte de clients et visualisation des taux de churn par catégorie.
 
 ### Python
 - **[AirBnB Listing Analysis](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)** : Analyse des annonces AirBnB à Paris pour évaluer l'impact des régulations récentes sur le marché.
