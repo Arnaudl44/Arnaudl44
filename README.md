@@ -14,8 +14,8 @@
 - **[Analyse marketing pour un site e-commerce](https://github.com/Arnaudl44/SQL-Projects/tree/main/Marketing%20%26%20Conversion%20Optimization%20Analysis)** : Identification des clients actifs/inactifs et analyse géographique.
 
 ### Power BI
-- **[Fabrication de câbles : Tableau de bord de production et performance](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable_Manufacturing/README.md)** : Analyse des performances de production et des ventes d'une usine de câbles.  
-- **[Toy Store KPI Report](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy_Store_KPI_Report/README.md)** : Suivi des KPI pour une chaîne fictive de magasins de jouets au Mexique.  
+- **[Fabrication de câbles : Tableau de bord de production et performance](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Cable%20Manufacturing%20%3A%20Production%20%26%20Performance%20Dashboard/README.md)** : Analyse des performances de production et des ventes d'une usine de câbles.  
+- **[Toy Store KPI Report](https://github.com/Arnaudl44/PowerBI-Projects/blob/main/Toy%20Store%20KPI%20Report/README.md)** : Suivi des KPI pour une chaîne fictive de magasins de jouets au Mexique.  
 
 ### Excel
 - **[HR Employee Survey Responses](https://github.com/Arnaudl44/Excel-Projects/blob/main/HR%20Employee%20Survey%20Responses/README.md)** : Tableau de bord pour visualiser les résultats d'une enquête sur la satisfaction des employés.
