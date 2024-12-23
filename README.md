@@ -16,8 +16,7 @@
   **Points forts :**
   - Visualisations interactives pour un suivi personnalisé des performances.
   - Pages dédiées à l'analyse des tendances et à l'évaluation comparative entre équipes.
-  - Accessibilité et facilité d'utilisation pour des publics non techniques.
-    
+     
 ### SQL
 - **[Analyse des prénoms aux États-Unis](https://github.com/Arnaudl44/SQL-Projects/tree/main/BabyNames)** : KPIs des ventes, marges, et tendances temporelles.
 - **[Analyse marketing pour un site e-commerce](https://github.com/Arnaudl44/SQL-Projects/tree/main/Marketing%20%26%20Conversion%20Optimization%20Analysis)** : Identification des clients actifs/inactifs et analyse géographique.
