@@ -1,6 +1,5 @@
 # 👋 Bonjour, je suis @ArnaudL44
 
-- 🌟 Passionné par l’**analyse de données** et la **business intelligence**.
 - 🌱 Je développe actuellement mes compétences en **SQL**, **Power BI**, et **Excel**, et je continue d’explorer les possibilités offertes par **Python**.
 - 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
 - 🤝 À la recherche d’un poste en tant que **data analyst** ou **business intelligence analyst** pour transformer les données en insights actionnables et soutenir la prise de décision.
