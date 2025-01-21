@@ -16,29 +16,13 @@
   - Visualisations interactives pour un suivi personnalisé des performances.
   - Pages dédiées à l'analyse des tendances et à l'évaluation comparative entre équipes.
 
-# Onyx Data January Challenge - Merchandise Sales Dashboard
-
-## 📄 Introduction
-Ce projet a été réalisé dans le cadre du **Onyx Data January 2025 Challenge**, en collaboration avec **ZoomCharts** et **DataDNA**. L’objectif était de concevoir un tableau de bord interactif avec Power BI pour analyser les performances des ventes de marchandises, identifier les tendances, comprendre le comportement des acheteurs et obtenir des insights régionaux.
-
-Le tableau de bord exploite les visualisations avancées de **ZoomCharts** pour offrir un filtrage dynamique et améliorer l’expérience utilisateur, sans avoir besoin de slicers.
-
----
-
-## 🎯 Objectif
-L’objectif principal de ce projet était de :
-- Fournir des insights exploitables sur les performances des ventes par produit, catégorie et région.
-- Permettre une exploration intuitive grâce à des visualisations interactives avancées.
-- Mettre en avant la puissance du cross-filtering pour une analyse adaptée.
-
----
-
-## 📊 Points forts
-- **Tableau de bord interactif** : Conçu avec Power BI, utilisant **ZoomCharts** pour le filtrage et les visualisations avancées.
-- **Indicateurs clés** : Inclut les ventes totales, le nombre de commandes, la valeur moyenne des commandes et la quantité totale.
-- **Analyse détaillée** : Répartition des ventes par catégorie de produit, tendances mensuelles et performances des livraisons par région.
-- **Navigation fluide** : Aucune utilisation de slicers ; les utilisateurs s’appuient sur le cross-filtering entre les visuels.
-
+- **[Onyx Data January Challenge - Merchandise Sales Dashboard](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard)**  
+  Dans ce projet, j'ai conçu un tableau de bord interactif avec Power BI dans le cadre du challenge **Onyx Data January 2025**, en partenariat avec **ZoomCharts** et **DataDNA**.  
+  **Objectif :** Fournir des insights sur les performances des ventes d’un e-commerce, incluant l’analyse des tendances, des comportements d’achat et des répartitions géographiques.  
+  **Points forts :**
+  - Cross-filtering interactif grâce aux visualisations avancées de ZoomCharts.
+  - Analyse détaillée des ventes par catégorie, région et période.
+  - Expérience utilisateur fluide sans slicers, mettant en avant les interactions dynamiques.
 
 ### SQL
 - **[Analyse des prénoms aux États-Unis](https://github.com/Arnaudl44/SQL-Projects/tree/main/BabyNames)** : KPIs des ventes, marges, et tendances temporelles.
