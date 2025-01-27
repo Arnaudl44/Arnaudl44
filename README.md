@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis @ArnaudL44
+# 👋 Bonjour, je m'appelle Arnaud Le Merrer
 
 - 🌱 Je développe actuellement mes compétences en **SQL**, **Power BI**, et **Excel**, et je continue d’explorer les possibilités offertes par **Python**.
 - 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
