@@ -15,8 +15,8 @@
   **Points forts :**
   - Analyse avancée des données via BigQuery.
   - Dashboard interactif réalisé sur Looker Studio.
-
-Calculs de KPIs clés comme les revenus totaux, l'AOV et les ventes par pays.
+  - Calculs de KPIs clés comme les revenus totaux, l'AOV et les ventes par pays.
+  - 
 - **[CRM Insights pour Managers](https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers)**  
   Dans ce projet, j'ai conçu un tableau de bord interactif à partir de données CRM fictives pour une entreprise de matériel informatique.  
   **Objectif :** Permettre aux responsables commerciaux de suivre leurs indicateurs clés de performance (ventes réalisées, taux de conversion, valeur moyenne des ventes) et de comparer les performances entre trimestres et équipes.  
