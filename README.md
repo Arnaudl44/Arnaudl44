@@ -12,7 +12,7 @@
 - **[The Look E-commerce (BigQuery et Looker Studio)](https://github.com/Arnaudl44/The_Look_E-commerce_-BigQuery_et_Looker_Studio)**  
   Ce projet consiste à analyser les données d'une plateforme e-commerce et à produire des visualisations dynamiques pour les ventes, les comportements des clients et les performances des produits.
 
-  **Objectif :** Fournir des insights stratégiques aux parties prenantes pour optimiser les ventes et améliorer la satisfaction client.
+  **Objectif :** Fournir des insights stratégiques aux parties prenantes pour optimiser les ventes.
 
    **Points forts :**
   - Analyse avancée des données via BigQuery.
@@ -21,14 +21,18 @@
     
 - **[CRM Insights pour Managers](https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers)**  
   Dans ce projet, j'ai conçu un tableau de bord interactif à partir de données CRM fictives pour une entreprise de matériel informatique.  
+
   **Objectif :** Permettre aux responsables commerciaux de suivre leurs indicateurs clés de performance (ventes réalisées, taux de conversion, valeur moyenne des ventes) et de comparer les performances entre trimestres et équipes.  
-  **Points forts :**
+
+   **Points forts :**
   - Visualisations interactives pour un suivi personnalisé des performances.
   - Pages dédiées à l'analyse des tendances et à l'évaluation comparative entre équipes.
 
 - **[Onyx Data January Challenge - Merchandise Sales Dashboard](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard)**  
   Dans ce projet, j'ai conçu un tableau de bord interactif avec Power BI dans le cadre du challenge **Onyx Data January 2025**, en partenariat avec **ZoomCharts** et **DataDNA**.  
+
   **Objectif :** Fournir des insights sur les performances des ventes d’un e-commerce, incluant l’analyse des tendances, des comportements d’achat et des répartitions géographiques.  
+
   **Points forts :**
   - Cross-filtering interactif grâce aux visualisations avancées de ZoomCharts.
   - Analyse détaillée des ventes par catégorie, région et période.
