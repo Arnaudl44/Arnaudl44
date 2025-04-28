@@ -4,7 +4,7 @@
 - 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
 - 🤝 À la recherche d’un poste en tant que **data analyst** ou **business intelligence analyst** pour transformer les données en insights actionnables et soutenir la prise de décision.
 
-> 📅 **Dernière mise à jour : avril 2025**
+📅 **Dernière mise à jour : avril 2025**
 ---
 
 ## 📊 Portfolio
