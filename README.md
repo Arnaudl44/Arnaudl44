@@ -1,8 +1,9 @@
 # 👋 Bonjour, je m'appelle Arnaud Le Merrer
 
-- 🌱 Je développe actuellement mes compétences en **SQL**, **Power BI**, et **Excel**, et je continue d’explorer les possibilités offertes par **Python**.
+- 📊 Passionné par la data, je conçois des analyses et des tableaux de bord interactifs pour transformer les données en insights clairs et actionnables.
+- 💻 Compétences techniques solides en **SQL**, **Power BI**, et **Excel**, complétées par une initiation à **Python** pour l'automatisation de tâches analytiques.
 - 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
-- 🤝 À la recherche d’un poste en tant que **data analyst** ou **business intelligence analyst** pour transformer les données en insights actionnables et soutenir la prise de décision.
+- 🚀 Actuellement à la recherche d'un poste en **data analysis** ou **business intelligence**, avec une appétence particulière pour les secteurs logistique, e-commerce et supply chain.
 
 📅 **Dernière mise à jour : avril 2025**
 ---
