@@ -9,6 +9,17 @@
 ## 📊 Portfolio
 
 ### Projets
+- **[Inventory Management Dashboard (Power BI)](https://github.com/Arnaudl44/Inventory_Management_Dashboard)**  
+  Ce projet a été réalisé dans le cadre du **FP20 Analytics Challenge 25**.  
+  Il vise à optimiser la gestion des stocks en analysant les niveaux d'inventaire, les performances fournisseurs et la répartition logistique.
+
+  **Objectif :** Identifier les risques de rupture de stock, améliorer la performance logistique et optimiser les coûts de stockage.
+
+  **Points forts :**
+  - Utilisation avancée de **DAX** pour calculer écarts, délais et taux de rotation.
+  - **Paramètres de champs** pour permettre une sélection dynamique des mesures.
+  - **Mise en évidence visuelle** des écarts critiques grâce à la mise en forme conditionnelle.
+  - **Navigation intuitive** par onglets pour une expérience utilisateur fluide.
 - **[The Look E-commerce (BigQuery et Looker Studio)](https://github.com/Arnaudl44/The_Look_E-commerce_-BigQuery_et_Looker_Studio)**  
   Ce projet consiste à analyser les données d'une plateforme e-commerce et à produire des visualisations dynamiques pour les ventes, les comportements des clients et les performances des produits.
 
