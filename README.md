@@ -102,12 +102,15 @@
 
 ## 🚀 À la recherche d’opportunités
 
-Je suis actuellement en recherche active d’un **poste en analyse de données** ou en **business intelligence**, où je pourrai exploiter mes compétences en :
-- Nettoyage et manipulation des données.
-- Création de KPIs et reporting.
-- Réalisation de tableaux de bord interactifs (Excel, Power BI).
+Je suis en recherche active d’un **CDI junior** ou d’une **alternance** en **analyse de données** ou en **business intelligence**.  
+Mon objectif est de mettre mes compétences au service d'équipes opérationnelles pour soutenir la prise de décision.
 
-Mon objectif est de contribuer à la prise de décision stratégique grâce à des analyses et des visualisations impactantes.
+Compétences principales :
+- Structuration et nettoyage de bases de données (SQL, Excel).
+- Conception d'indicateurs de performance (KPIs) adaptés aux besoins métier.
+- Création de tableaux de bord dynamiques et interactifs avec **Power BI** et **Excel**.
+
+Je suis particulièrement motivé par les environnements où la **valorisation de la donnée** contribue directement à l'amélioration des processus métiers.
 
 📧 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/arnaud-le-merrer-66a401102).
 
