@@ -30,7 +30,7 @@
   - Visualisations réalisées sur Looker Studio.
   - Calculs de KPIs clés comme les revenus totaux, l'AOV et les ventes par pays.
     
-- **[CRM Insights pour Managers](https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers)**  
+- **[CRM Insights pour Managers (Power BI)](https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers)**  
   Dans ce projet, j'ai conçu un tableau de bord interactif à partir de données CRM fictives pour une entreprise de matériel informatique.  
 
   **Objectif :** Permettre aux responsables commerciaux de suivre leurs indicateurs clés de performance (ventes réalisées, taux de conversion, valeur moyenne des ventes) et de comparer les performances entre trimestres et équipes.  
@@ -39,7 +39,7 @@
   - Visualisations interactives pour un suivi personnalisé des performances.
   - Pages dédiées à l'analyse des tendances et à l'évaluation comparative entre équipes.
 
-- **[Onyx Data January Challenge - Merchandise Sales Dashboard](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard)**  
+- **[Onyx Data January Challenge - Merchandise Sales Dashboard (Power BI)](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard)**  
   Dans ce projet, j'ai conçu un tableau de bord interactif avec Power BI dans le cadre du challenge **Onyx Data January 2025**, en partenariat avec **ZoomCharts** et **DataDNA**.  
 
   **Objectif :** Fournir des insights sur les performances des ventes d’un e-commerce, incluant l’analyse des tendances, des comportements d’achat et des répartitions géographiques.  
