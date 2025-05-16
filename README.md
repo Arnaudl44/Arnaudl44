@@ -3,7 +3,7 @@
 - 📊 Passionné par la data, je conçois des analyses et des tableaux de bord interactifs pour transformer les données en insights clairs et actionnables.
 - 💻 Compétences techniques solides en **SQL**, **Power BI**, et **Excel**, complétées par une initiation à **Python** pour l'automatisation de tâches analytiques.
 - 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
-- 🎯 Actuellement à la recherche d'un **CDI junior** ou d'une **alternance** dans le cadre d'une formation diplômante avec **OpenClassrooms**, avec une appétence particulière pour les secteurs **logistique**, **e-commerce** et **supply chain**.
+- 🎯 Actuellement à la recherche d'un **CDI junior** ou d'une **alternance** dans le cadre d'une formation diplômante avec **OpenClassrooms**, avec une appétence particulière pour les secteurs logistique/supply chain, e-commerce, marketing et finance.
 
 📅 **Dernière mise à jour : 16 mai 2025**
 ---
