@@ -5,12 +5,23 @@
 - 🎓 Diplômé du **Bootcamp Data Analytics de Le Wagon** et certifié **Microsoft Power BI (PL-300)**.
 - 🎯 Actuellement à la recherche d'un **CDI junior** ou d'une **alternance** dans le cadre d'une formation diplômante avec **OpenClassrooms**, avec une appétence particulière pour les secteurs **logistique**, **e-commerce** et **supply chain**.
 
-📅 **Dernière mise à jour : avril 2025**
+📅 **Dernière mise à jour : 16 mai 2025**
 ---
 
 ## 📊 Portfolio
 
 ### Projets
+- **[FP20 Financial Reporting Dashboard (Power BI)](https://github.com/Arnaudl44/FP20_Financial_Reporting_Dashboard)**  
+  Réalisé dans le cadre du **FP20 Analytics Challenge 26** en partenariat avec **ZoomCharts**.  
+  Dashboard financier interactif pour une entreprise SaaS, analysant les écarts budgétaires, les résultats nets et les tiers.
+
+  **Objectif :** Suivre l’évolution du résultat net et identifier les principales sources de sur/sous-exécution budgétaire.
+
+  **Points forts :**
+  - Visuels **ZoomCharts**, navigation par **signets** et **infobulles dynamiques**.
+  - **Surbrillance des boutons** selon la page active.
+  - Nettoyage dans **Power Query**, modélisation optimisée et calculs **DAX** avancés.
+    
 - **[Inventory Management Dashboard (Power BI)](https://github.com/Arnaudl44/Inventory_Management_Dashboard)**  
   Ce projet a été réalisé dans le cadre du **FP20 Analytics Challenge 25**.  
   Il vise à optimiser la gestion des stocks en analysant les niveaux d'inventaire, les performances fournisseurs et la répartition logistique.
@@ -22,6 +33,7 @@
   - **Paramètres de champs** pour permettre une sélection dynamique des mesures.
   - **Mise en évidence visuelle** des écarts critiques grâce à la mise en forme conditionnelle.
   - **Navigation intuitive** par onglets pour une expérience utilisateur fluide.
+    
 - **[The Look E-commerce (BigQuery et Looker Studio)](https://github.com/Arnaudl44/The_Look_E-commerce_-BigQuery_et_Looker_Studio)**  
   Ce projet consiste à analyser les données d'une plateforme e-commerce et à produire des visualisations dynamiques pour les ventes, les comportements des clients et les performances des produits.
 
